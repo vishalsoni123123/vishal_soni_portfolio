@@ -9,16 +9,24 @@ const App = () => {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/About' element={<About />} />
-          <Route path='/Projects' element={<Projects />} />
-          <Route path='/Contact' element={<Contact />} />
+          <Route exact path='/Home' element={<Home/>} />
+          <Route
+            path='/*'
+            element={
+              <>
+                <Routes>
+                  <Route path='/About' element={<About />} />
+                  <Route path='/Projects' element={<Projects />} />
+                  <Route path='/Contact' element={<Contact />} />
+                </Routes>
+                <Footer />
+              </>
+            }
+          />
         </Routes>
-        <Footer />
       </Router>
     </main>
   );
 };
-
 
 export default App;
