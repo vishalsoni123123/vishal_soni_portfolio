@@ -206,7 +206,7 @@ export const projects = [
         name: 'Fire detection bot',
         description: 'Built an machine learning model for detecting fire and movinng the piston to that spot to extinguish the fire.',
         link: 'https://github.com/vishalsoni123123/fire_detection_bot',
-        link1:useAlert,
+        link1:'https://github.com/vishalsoni123123/fire_detection_bot',
     }
 //     {
 //         iconUrl: snapgram,
