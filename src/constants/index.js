@@ -198,7 +198,7 @@ export const projects = [
         name: 'QR scanner website ',
         description: 'Designed and built a website for a client as per his need,and this is the modified form of that website ',
         link: 'https://github.com/vishalsoni123123/QR--scanner-',
-        link1: 'https://vishalsoni123123.github.io/QR-snanner-/',
+        link1: 'https://vishalsoni123123.github.io/QR--scanner-/',
     },
     {
         iconUrl: car,
