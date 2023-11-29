@@ -48,7 +48,17 @@ const Projects = () => {
                   rel='noopener noreferrer'
                   className='font-semibold text-blue-600'
                 >
-                  Live Link
+                  repo_link
+                </Link>
+                <br/>
+                
+                <Link
+                  to={project.link1}
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  className='font-semibold text-green-500'
+                >
+                  Site_link
                 </Link>
                 <img
                   src={arrow}

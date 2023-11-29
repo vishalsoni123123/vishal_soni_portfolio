@@ -25,6 +25,7 @@ import {
     threads,
     typescript
 } from "../assets/icons";
+import useAlert from "../hooks/useAlert";
 
 export const skills = [
     {
@@ -189,6 +190,7 @@ export const projects = [
         name: 'you tube clone',
         description: 'Created a full-stack replica of the popular discussion platform youtube ,it is not interactive yet',
         link: 'https://github.com/vishalsoni123123/youtube_clone',
+        link1: 'https://vishalsoni123123.github.io/youtube_clone/',
     },
     {
         iconUrl: threads,
@@ -196,6 +198,7 @@ export const projects = [
         name: 'QR scanner website ',
         description: 'Designed and built a website for a client as per his need,and this is the modified form of that website ',
         link: 'https://github.com/vishalsoni123123/QR--scanner-',
+        link1: 'https://vishalsoni123123.github.io/QR-snanner-/',
     },
     {
         iconUrl: car,
@@ -203,6 +206,7 @@ export const projects = [
         name: 'Fire detection bot',
         description: 'Built an machine learning model for detecting fire and movinng the piston to that spot to extinguish the fire.',
         link: 'https://github.com/vishalsoni123123/fire_detection_bot',
+        link1:useAlert,
     }
 //     {
 //         iconUrl: snapgram,
