@@ -207,14 +207,15 @@ export const projects = [
         description: 'Built an machine learning model for detecting fire and movinng the piston to that spot to extinguish the fire.',
         link: 'https://github.com/vishalsoni123123/fire_detection_bot',
         link1:'https://github.com/vishalsoni123123/fire_detection_bot',
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'portfolio web',
+        description: 'this website is fully deployable and can consive all the proper information . here is the link and all content of it is made open source .',
+        link: 'https://github.com/vishalsoni123123/vishal_soni_portfolio',
+        link1: 'https://vishalsoni123123.github.io/vishal_soni_portfolio/',
     }
-//     {
-//         iconUrl: snapgram,
-//         theme: 'btn-back-pink',
-//         name: 'Full Stack Instagram Clone',
-//         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-//         link: 'https://github.com/adrianhajdin/social_media_app',
-//     },
 //     {
 //         iconUrl: estate,
 //         theme: 'btn-back-black',
