@@ -215,14 +215,15 @@ export const projects = [
         description: 'this website is fully deployable and can consive all the proper information . here is the link and all content of it is made open source .',
         link: 'https://github.com/vishalsoni123123/vishal_soni_portfolio',
         link1: 'https://vishalsoni123123.github.io/vishal_soni_portfolio/',
+    },
+    {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'TILE_GAME',
+        description: 'this is atile game created with python with module kivy. you can download the source code form the repositary.',
+        link: 'https://github.com/vishalsoni123123/tile_game',
+        link1: 'https://vishalsoni123123.github.io/tile_game/',
     }
-//     {
-//         iconUrl: estate,
-//         theme: 'btn-back-black',
-//         name: 'Real-Estate Application',
-//         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-//         link: 'https://github.com/adrianhajdin/projects_realestate',
-//     },
 //     {
 //         iconUrl: summiz,
 //         theme: 'btn-back-yellow',
