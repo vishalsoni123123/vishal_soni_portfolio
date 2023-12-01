@@ -187,7 +187,7 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'you tube clone',
+        name: 'YOUTUBE CLONE',
         description: 'Created a full-stack replica of the popular discussion platform youtube ,it is not interactive yet',
         link: 'https://github.com/vishalsoni123123/youtube_clone',
         link1: 'https://vishalsoni123123.github.io/youtube_clone/',
@@ -195,7 +195,7 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'QR scanner website ',
+        name: 'QR SCANNER WEBSITE CLONE ',
         description: 'Designed and built a website for a client as per his need,and this is the modified form of that website ',
         link: 'https://github.com/vishalsoni123123/QR--scanner-',
         link1: 'https://vishalsoni123123.github.io/QR--scanner-/',
@@ -203,7 +203,7 @@ export const projects = [
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Fire detection bot',
+        name: 'FIRE DETECTION BOT',
         description: 'Built an machine learning model for detecting fire and movinng the piston to that spot to extinguish the fire.',
         link: 'https://github.com/vishalsoni123123/fire_detection_bot',
         link1:'https://github.com/vishalsoni123123/fire_detection_bot',
@@ -211,7 +211,7 @@ export const projects = [
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'portfolio web',
+        name: 'PORTFOLIO WEBSITE',
         description: 'this website is fully deployable and can consive all the proper information . here is the link and all content of it is made open source .',
         link: 'https://github.com/vishalsoni123123/vishal_soni_portfolio',
         link1: 'https://vishalsoni123123.github.io/vishal_soni_portfolio/',
