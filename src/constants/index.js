@@ -222,7 +222,7 @@ export const projects = [
         name: 'TILE_GAME',
         description: 'this is atile game created with python with module kivy. you can download the source code form the repositary.',
         link: 'https://github.com/vishalsoni123123/tile_game',
-        link1: 'https://vishalsoni123123.github.io/tile_game/',
+        link1: 'https://github.com/vishalsoni123123/tile_game',
     }
 //     {
 //         iconUrl: summiz,
